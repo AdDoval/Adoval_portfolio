@@ -11163,6 +11163,7 @@ p {
 }
 
 .portfolio .filters {
+  white-space: nowrap;
   border-bottom: 2px solid #dee2e6;
   border-radius: 0;
   padding-bottom: 4px;
@@ -11184,7 +11185,7 @@ p {
           flex-basis: ;
   display: block;
   color: #212529;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 500;
   opacity: .7;
   padding: 4px 10px;
@@ -11546,7 +11547,7 @@ pre .code {
 }
 
 .header .header-content .header-mono {
-  letter-spacing: 5px;
+  letter-spacing: 1px;
   font-weight: 500;
   font-size: calc(12px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
   margin-bottom: 40px;
