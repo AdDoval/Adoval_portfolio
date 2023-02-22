@@ -4,8 +4,6 @@ Designed with ♥️ and creativity by Devcrud.com
 
 
 
-Product Page: https://wwww.devcrud.com/
-
 Credits:
 
     Demo Images:
